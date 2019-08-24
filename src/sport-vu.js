@@ -1,4 +1,4 @@
-const defaults = { season: 2017 };
+const defaults = { season: 2019 };
 
 const endpoints = [
   { name: "speed", defaults },

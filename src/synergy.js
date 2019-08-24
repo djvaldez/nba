@@ -35,7 +35,7 @@ const parameters = [
   },
   {
     name: "season",
-    default: 2017,
+    default: 2019,
   },
   {
     name: "limit",
